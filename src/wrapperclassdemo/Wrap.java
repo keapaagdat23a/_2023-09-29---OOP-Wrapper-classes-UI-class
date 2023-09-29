@@ -9,6 +9,7 @@ public class Wrap {
     int i = Integer.parseInt(s);
     System.out.println(i);
 
+
     double d = Double.parseDouble("24");
 
     ArrayList<Integer> numbers = new ArrayList(); // Not int, but Integer
